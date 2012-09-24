@@ -4,13 +4,9 @@
 $(document).ready(function(){
 	// here.
 
-	$("li").on("click", function(){
-
-		if ($(this).hasClass("done")) {
-			$(this).removeClass("done");
-		} else {
-			$(this).addClass("done");
-		}
+	$("section").on("click", function(){	
+		// $("ul", this).toggleClass("hidden");
+		$("ul", this).fadeToggle(900);
 	});
 
 	$("img").on("dblclick", function(){
@@ -18,13 +14,11 @@ $(document).ready(function(){
 		$("img").width(570);
 		$("h1").fadeIn();
 		$(".booboo").slideDown();
-		$("#rahul").show();
 	});
 
 	$("img").click(function(){
 		$("img").width(200);
 		$("h1").fadeOut();
 		$(".booboo").slideUp();
-		$("#rahul").hide();
 	});
 });
