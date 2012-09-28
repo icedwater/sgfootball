@@ -19,3 +19,9 @@ section h2 {	color: white;
 
 #clubs ul {	list-style: none; }
 #clubs li {	display: block; }
+
+#preview {	float: right;
+		width: 400px;
+		height: 280px; }
+
+
