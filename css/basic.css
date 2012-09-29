@@ -17,11 +17,26 @@ section h2 {	color: white;
 
 /* #clubs {	float: right;} */
 
-#clubs ul {	list-style: none; }
-#clubs li {	display: block; }
+#clubs ul {	list-style: none;
+		text-indent: 0em; }
+
+#clubs li a {	display: block;
+		width: 190px;
+		text-decoration: none; }
+
+#clubs li:hover {	background-color: #cc3333; }
 
 #preview {	float: right;
-		width: 400px;
-		height: 280px; }
+		position: relative;
+		top: -1em;
+		width: 350px;
+		height: 280px;
+		padding: 1em; }
 
+#preview #url {	color: white;
+		font-weight: bold;
+		font-size: small;
+		display: block;
+		height: 30px; }
 
+#preview canvas {	border: 1px solid green; }

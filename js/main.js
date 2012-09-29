@@ -13,7 +13,7 @@ $(document).ready(function(){
 	});
 
 	$("a","li").on("hover", function(e){
-		$("#preview").html($(this).attr('href'));
+		$("span","#preview").html($(this).attr('href'));
 	});
 
 });
