@@ -1,6 +1,13 @@
+html {	background-color: white; }
+
 body {	width: 800px;
 	margin: 5em auto;
-	}
+	padding: 1em;
+	background-color: #ffff00;
+	border: 0px solid #cccc00;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px; }
 
 section {	background-color: #cc0000;
 		padding: 0em 0.2em;
