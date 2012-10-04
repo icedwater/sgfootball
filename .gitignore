@@ -1,3 +1,6 @@
 # Anything that ends in ~ or .swp
 *~
 *.swp
+
+# SLeague build junk
+SLeague/bin/*
