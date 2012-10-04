@@ -7,3 +7,4 @@
 /home/iced/experiment/SLeague/bin/classes/com/icedwater/sleague/MainActivity.class \
 /home/iced/experiment/SLeague/bin/classes/com/icedwater/sleague/R$attr.class \
 /home/iced/android-sdk-linux/tools/support/annotations.jar \
+/home/iced/experiment/SLeague/libs/android-support-v4.jar \
