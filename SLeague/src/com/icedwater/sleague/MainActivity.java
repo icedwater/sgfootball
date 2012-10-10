@@ -15,7 +15,7 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        final ActionBar actionBar = getActionBar();
+/*        final ActionBar actionBar = getActionBar();
 
         // display tabs in the action bar
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
@@ -44,6 +44,7 @@ public class MainActivity extends Activity
                     .setText("Tab " + (i + 1))
                     .setTabListener(tabListener));
         }
+*/
 
     }
 
