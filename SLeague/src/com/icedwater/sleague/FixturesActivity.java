@@ -14,11 +14,12 @@ public class FixturesActivity extends Activity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.fixtures);
+
         Button btnMain = (Button) findViewById(R.id.btn_BackMain);
         btnMain.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                startActivity(new Intent("android.intent.action.MAIN"));
+                finish();
             }
         });
     }
