@@ -11,5 +11,13 @@
     android:textSize="25dp"
     android:gravity="center"
     />
+
+<Button
+    android:id="@+id/btn_Fixtures"
+    android:layout_width="100dp"
+    android:layout_height="wrap_content"
+    android:text="@string/fixtures_button"
+    android:gravity="right"
+    />
 </LinearLayout>
 

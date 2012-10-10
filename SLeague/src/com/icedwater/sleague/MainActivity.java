@@ -3,9 +3,12 @@ package com.icedwater.sleague;
 import android.app.Activity;
 import android.os.Bundle;
 
-import android.app.ActionBar;
-import android.app.FragmentTransaction;
-import android.view.Window;
+// import android.app.ActionBar;
+// import android.app.FragmentTransaction;
+
+import android.view.View;
+import android.widget.Button;
+import android.content.Intent;
 
 public class MainActivity extends Activity
 {
@@ -15,6 +18,15 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+
+        Button btnFixtures = (Button) findViewById(R.id.btn_Fixtures);
+        btnFixtures.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                // go to Fixtures
+                startActivity(new Intent("com.icedwater.sleague.Fixtures"));
+            }
+        });
+
 /*        final ActionBar actionBar = getActionBar();
 
         // display tabs in the action bar

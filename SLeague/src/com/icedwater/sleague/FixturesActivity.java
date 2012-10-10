@@ -3,6 +3,10 @@ package com.icedwater.sleague;
 import android.app.Activity;
 import android.os.Bundle;
 
+import android.widget.Button;
+import android.view.View;
+import android.content.Intent;
+
 public class FixturesActivity extends Activity
 {
     /** Called when the activity is first created. */
@@ -11,6 +15,12 @@ public class FixturesActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        Button btnMain = (Button) findViewById(R.id.btn_BackMain);
+        btnMain.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                startActivity(new Intent("android.intent.action.MAIN"));
+            }
+        });
     }
 
 }
