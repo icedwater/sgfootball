@@ -1,0 +1,2 @@
+#! /usr/bin/env bash
+grep -E -A7 'data[ alternate]?' s-league | sed '/links/d;/div/d;/ul/d;s/<div>//;s/[ ]class=long//;s/<[\/]*li>//g' | tr '\r\n' ' ' | sed 's/ -- /\n/g' | sed 's/Venue  /\n/;/DATE/d'
