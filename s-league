@@ -1,0 +1,1866 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<title>S.League.com - S.League</title>
+<meta name="description" content=""/>
+<meta name="author" content=""/>
+
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/960.css" />
+<link rel="stylesheet" href="/css/main.css" />
+<link rel="stylesheet" href="/css/tooltip.css" />
+
+<link href="/css/article.css" rel="stylesheet" type="text/css" />
+<link href="/css/competitions.css" rel="stylesheet" type="text/css" />
+<link href="/css/competitions_table.css" rel="stylesheet" type="text/css" />
+<link href="/css/fancybox.css" rel="stylesheet" type="text/css" />
+<link href="/css/fixtures.css" rel="stylesheet" type="text/css" />
+<link href="/css/gallery.css" rel="stylesheet" type="text/css" />
+<link href="/css/index.css" rel="stylesheet" type="text/css" />
+<link href="/css/matchreport.css" rel="stylesheet" type="text/css" />
+<link href="/css/print.css" rel="stylesheet" type="text/css" />
+<link href="/css/ticketinfo.css" rel="stylesheet" type="text/css" />
+<link href="/css/winlosedraw.css" rel="stylesheet" type="text/css" />
+<link href="/css/clubs.css" rel="stylesheet" type="text/css" />
+<link href="/css/clubs_carousel.css" rel="stylesheet" type="text/css" />
+<script src="/js/libs/modernizr-2.0.6.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script>    window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="/js/jquery.fancybox-1.3.4.pack.js"></script>
+<script defer src="/js/plugins.js"></script> 
+<script src="/js/cloud-carousel.1.0.5.js"></script> 
+<!--[if lt IE 7 ]>
+<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-15486180-12']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script> 
+
+<script type="text/javascript">$(document).ready( function() {
+        $("#fixtures-results ul").addClass("active");
+});</script><meta name="Generator" content="Sitefinity 4.4.2117.0 SE" /><title>
+	S-League Fixtures
+</title></head>
+<body>
+    <form method="post" action="s-league" id="form1">
+<input type="hidden" name="ctl01_TSSM" id="ctl01_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTY4Mzg2MDM2OWRkKEKjHbUKJTL236utXQUcjZw6RJbXG0WiCQYmRjcfUos=" />
+
+
+<script src="/ScriptResource.axd?d=6nugeKhUY2mFT7JJ3bzt1R9fGaurEcWfm2MPGZX_bBaSAG5eVTXhm1xRVCtLX1sQmF6gE_QHko5pDIYp44YPUCWopY7CwhULHsYx7Z49K2eR9O7CHh5P_VCrHwwmZVxw9cwfrXEVfId1zqOV2F9k2Uzu8nc58FOW68vVBp2r5Qo1&amp;t=ffffffff940d030f" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQL38ZGNBALC7ODLDgKnzpKDBgKlztqABgKgzpKDBgKhzoaDBgKkzvaABgLIr4qgCAK78qDgDtXZpeEqZ5WzRPaMXg63Xlxi13sjE0u4rZb4AO3HN9TY" />
+    
+    <div id="container">
+    
+<div class="sfContentBlock">
+	<div id="topbanner"><a href="http://www.facebook.com/htwoo.sg " target="_blank"> <img title="banner" src="/images/banner/banner.jpg?sfvrsn=4" alt="The Winning Formula htwoo.sg" /></a> </div>
+
+<br />
+
+
+</div>  
+         
+		<nav id="logos">
+			<ul>
+				<li><a href="/home" class="btn_logo"></a></li>
+				<li><a href="http://www.albirex.com.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo01" src="../../img/nav/logos/logo_01.jpg" /><span class="classic">ALBIREX NIIGATA FOOTBALL CLUB (S)</span></div></a></li>
+				<li><a href="http://www.balestierkhalsafc.com" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo02" src="../../img/nav/logos/logo_02.jpg" /><span class="classic">BALESTIER KHALSA FOOTBALL CLUB </span></div></a></li>
+				<li><a href="#"><div class="tooltip"><img id="ucBodyHeader_imgLogo03" src="../../img/nav/logos/logo_03.jpg" /><span class="classic">BRUNEI DPMM FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.courtsyounglions.com" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo04" src="../../img/nav/logos/logo_04.jpg" /><span class="classic">COURTS YOUNG LIONS</span></div></a></li>
+				<li><a href="http://www.gufc.com.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo05" src="../../img/nav/logos/logo_05.jpg" /><span class="classic">GEYLANG UNITED FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.gombakunitedfc.com" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo06" src="../../img/nav/logos/logo_06.jpg" /><span class="classic">GOMBAK UNITED FOOTBALL CLUB</span></div></a></li>
+				<li><a href="#" ><div class="tooltip"><img id="ucBodyHeader_imgLogo07" src="../../img/nav/logos/logo_07.jpg" /><span class="classic">HARIMAU MUDA</span></div></a></li>
+				<li><a href="http://www.hufc.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo08" src="../../img/nav/logos/logo_08.jpg" /><span class="classic">HOME UNITED FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.hgfc.com.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo09" src="../../img/nav/logos/logo_09.jpg" /><span class="classic">HOUGANG UNITED FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.safwarriors.com.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo10" src="../../img/nav/logos/logo_10.jpg" /><span class="classic">SINGAPORE ARMED FORCES FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.trfc.org.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo11" src="../../img/nav/logos/logo_11.jpg" /><span class="classic">TAMPINES ROVERS FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.tpufc.org" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo12" src="../../img/nav/logos/logo_12.jpg" /><span class="classic">TANJONG PAGAR UNITED FOOTBALL CLUB</span></div></a></li>
+				<li><a href="http://www.wwfc.org.sg" target=_blank><div class="tooltip"><img id="ucBodyHeader_imgLogo13" src="../../img/nav/logos/logo_13.jpg" /><span class="classic">WOODLANDS WELLINGTON FOOTBALL CLUB</span></div></a></li>
+			</ul>
+		</nav><!-- END LOGOS --> 
+       
+        
+        <nav id="main">
+			<ul>
+        
+        <li class='btn_a' id='fixtures-results'> <a id="ucBodyHeader_rpNav_hlTopLevel_2" href="../../fixtures-results">Fixtures & Results</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_2_hlSubLevel_0" href="../fixtures">Fixtures</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_2_hlSubLevel_1" href="../upcoming">Upcoming</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_2_hlSubLevel_2" href="../results">Results</a></li>
+               </ul>
+            </li>
+        
+        <li class='btn_a' id='news-features'> <a id="ucBodyHeader_rpNav_hlTopLevel_5" href="../../news-features">News & Features</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_5_hlSubLevel_0" href="../../news-features/news">News</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_5_hlSubLevel_1" href="../../news-features/win-lose-or-draw">Win Lose or Draw</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_5_hlSubLevel_3" href="../../news-features/press-release">Press Release</a></li>
+               </ul>
+            </li>
+        
+        <li class='' id='competitions'> <a id="ucBodyHeader_rpNav_hlTopLevel_6" href="../../competitions">Competitions</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_6_hlSubLevel_0" href="../../competitions/s-league">S.League</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_6_hlSubLevel_1" href="../../competitions/singapore-cup">Singapore Cup</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_6_hlSubLevel_2" href="../../competitions/league-cup">League Cup</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_6_hlSubLevel_3" href="../../competitions/afc-cup">AFC Cup</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_6_hlSubLevel_4" href="../../competitions/prime-league">Prime League</a></li>
+               </ul>
+            </li>
+        
+        <li class='' id='clubs-profile'> <a id="ucBodyHeader_rpNav_hlTopLevel_7" href="../../clubs-profile">Club Profile</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_0" href="../../clubs-profile/albirex">Albirex</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_1" href="../../clubs-profile/balestier">Balestier</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_2" href="../../clubs-profile/brunei-dpmm">Brunei DPMM</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_3" href="../../clubs-profile/courts-young-lions">Courts Young Lions</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_4" href="../../clubs-profile/geylang">Geylang</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_5" href="../../clubs-profile/gombak">Gombak</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_6" href="../../clubs-profile/harimau-muda">Harimau Muda</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_7" href="../../clubs-profile/home-utd">Home Utd</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_8" href="../../clubs-profile/hougang">Hougang</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_9" href="../../clubs-profile/saffc">SAFFC</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_10" href="../../clubs-profile/tampines">Tampines</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_11" href="../../clubs-profile/tanjong-pagar">Tanjong Pagar</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_7_hlSubLevel_12" href="../../clubs-profile/woodlands">Woodlands</a></li>
+               </ul>
+            </li>
+        
+        <li class='' id='s-league-tv'> <a id="ucBodyHeader_rpNav_hlTopLevel_8" href="http://www.s-league.tv/" target="_blank">S.League TV</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_8_hlSubLevel_0" href="http://www.s-league.tv/" target="_blank">S.League TV</a></li>
+               </ul>
+            </li>
+        
+        <li class='' id='photo-gallery'> <a id="ucBodyHeader_rpNav_hlTopLevel_10" href="../../photo-gallery">Photo Gallery</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_10_hlSubLevel_0" href="../../photo-gallery/match-day-photos">Match Day Photos</a></li>
+               <li><a id="ucBodyHeader_rpNav_rpNav2_10_hlSubLevel_3" href="../../photo-gallery/thru-your-eyes">Thru Your Eyes</a></li>
+               </ul>
+            </li>
+        
+        <li class='' id='coe-prog'> <a id="ucBodyHeader_rpNav_hlTopLevel_11" href="../../coe-prog">COE Prog</a>
+	
+         <ul><li><a id="ucBodyHeader_rpNav_rpNav2_11_hlSubLevel_0" href="../../coe-prog/news">News</a></li>
+               </ul>
+            </li>
+        
+        <li class='btn_d' id='ticket-info'> <a id="ucBodyHeader_rpNav_hlTopLevel_12" href="../../ticket-info">Ticket Info</a>
+	
+        
+            </li>
+        
+        	<div class="clear"></div>
+			</ul>
+		</nav><!-- END MAIN NAV -->
+       
+        
+          
+	 
+
+
+    
+        <div id="main" role="main">
+            <div id="fixtures">
+                <div class="container_9 subpage">
+                    <div class="header">
+                         <h1 class="crumb">Fixtures & Results</h1>
+                        <h2>
+                        Fixtures
+                            
+<span id="ContentPlaceHolder2_TB3031D38001"></span>
+                        </h2>
+                    </div>
+                    <nav id="sub">
+<ul class=''><li class='active'><a href='/fixtures-results/fixtures/s-league' target='' >S.League</a></li><li class=''><a href='/fixtures-results/fixtures/singapore-cup' target='' >Singapore Cup</a></li><li class=''><a href='/fixtures-results/fixtures/league-cup' target='' >League Cup</a></li><li class=''><a href='/fixtures-results/fixtures/afc' target='' >AFC</a></li><li class=''><a href='/fixtures-results/fixtures/prime-league' target='' >Prime League</a></li></ul></nav>
+                    <div class="content">
+                        
+
+<div class="results">
+				Go to: <select name="ctl00$ContentPlaceHolder1$ctl00$ddlYear" id="ContentPlaceHolder1_ctl00_ddlYear">
+	<option selected="selected" value="109">2012</option>
+	<option value="77">2011</option>
+	<option value="59">2010</option>
+	<option value="27">2009</option>
+	<option value="14">2008</option>
+	<option value="6">2007</option>
+	<option value="127">1999</option>
+	<option value="124">1998</option>
+
+</select> 
+				<div class="clear"></div>
+                 
+			</div>
+			
+			<div class="clear"></div>
+             <h2>Jan</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Feb</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-02-09 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>0-2</li>
+<li>Harimau Muda</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-09/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0001">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-09/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-02-09 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>1-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-09/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0079">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-09/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-02-10 07:45:PM</li>
+<li>Home United FC</li>
+<li>0-0</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-10/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0003">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-10/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-02-10 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>3-2</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-10/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0004">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-10/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-02-12 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>0-1</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-12/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0006">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-12/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-02-12 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>2-2</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0005">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-12/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-02-16 07:45:PM</li>
+<li>Home United FC</li>
+<li>1-1</li>
+<li>Gombak United FC</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-16/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0008">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-16/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-02-16 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>1-0</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-16/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0007">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-16/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-02-17 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>0-3</li>
+<li>Hougang United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-17/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0009">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-17/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-02-17 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>4-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-17/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0010">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-17/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-02-19 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>3-1</li>
+<li>Geylang United FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-19/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0012">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-19/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-02-19 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>1-2</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/February/2012-02-19/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0011">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/February/2012-02-19/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Mar</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-01 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>0-1</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-01/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0013">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-01/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-02 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>3-0</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-02/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0014">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-02/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-03 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>2-0</li>
+<li>Geylang United FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-03/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0015">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-03/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-04 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>3-3</li>
+<li>Home United FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-04/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0016">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-04/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-04 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>1-1</li>
+<li>Gombak United FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-04/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0017">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-04/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-08 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>0-1</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-08/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0019">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-08/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-09 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>0-3</li>
+<li>Gombak United FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-09/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0020">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-09/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-09 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>4-0</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-09/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0021">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-09/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-11 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>1-7</li>
+<li>Home United FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-11/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0023">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-11/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-11 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>2-1</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0022">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-11/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-15 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>2-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-15/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0026">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-15/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-15 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>1-2</li>
+<li>Home United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-15/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0025">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-15/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-16 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>4-3</li>
+<li>Courts Young Lions</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-16/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0027">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-16/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-16 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>4-1</li>
+<li>Geylang United FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-16/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0028">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-16/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-18 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>0-0</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-18/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0029">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-18/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-18 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>2-0</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-18/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0030">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-18/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-22 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>1-1</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-22/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0113">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-22/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-23 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>3-1</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-23/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0033">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-23/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-23 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>1-3</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-23/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0034">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-23/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-24 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>0-0</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-24/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0032">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-24/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-25 07:45:PM</li>
+<li>Home United FC</li>
+<li>4-2</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-25/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0035">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-25/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-25 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>3-1</li>
+<li>Courts Young Lions</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-25/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0024">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-25/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-25 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>1-1</li>
+<li>Hougang United FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-25/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0036">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-25/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-29 07:45:PM</li>
+<li>Home United FC</li>
+<li>0-2</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-29/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0037">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-29/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-29 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>1-0</li>
+<li>Geylang United FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-29/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0038">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-29/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-03-30 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>0-3</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-30/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0039">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-30/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-03-30 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>1-3</li>
+<li>Hougang United FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/March/2012-03-30/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0040">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/March/2012-03-30/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Apr</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-01 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>1-2</li>
+<li>Harimau Muda</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-01/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0041">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-01/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-01 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>1-1</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-01/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0042">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-01/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-05 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>2-2</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-05/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0043">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-05/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-06 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>1-2</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-06/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0044">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-06/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-06 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>1-0</li>
+<li>Courts Young Lions</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-06/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0045">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-06/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-07 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>1-5</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-07/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0046">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-07/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-08 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>2-1</li>
+<li>Hougang United FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-08/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0048">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-08/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-08 07:45:PM</li>
+<li>Home United FC</li>
+<li>2-1</li>
+<li>Harimau Muda</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-08/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0047">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-08/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-12 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>1-0</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-12/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0050">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-12/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-12 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>0-2</li>
+<li>Geylang United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-12/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0049">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-12/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-13 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>1-2</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-13/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0051">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-13/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-13 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>3-2</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-13/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0052">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-13/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-15 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>3-2</li>
+<li>Gombak United FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-15/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0053">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-15/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-15 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>2-1</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-15/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0054">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-15/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-19 07:45:PM</li>
+<li>Home United FC</li>
+<li>1-0</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-19/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0055">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-19/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-19 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>1-0</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-19/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0056">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-19/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-20 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>2-0</li>
+<li>Harimau Muda</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-20/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0057">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-20/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-20 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>0-5</li>
+<li>Courts Young Lions</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-20/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0058">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-20/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-22 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>2-0</li>
+<li>Geylang United FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-22/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0059">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-22/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-22 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>1-0</li>
+<li>Hougang United FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-22/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0060">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-22/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-26 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>0-0</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-26/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0062">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-26/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-26 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>1-0</li>
+<li>Gombak United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-26/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0061">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-26/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-27 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>3-1</li>
+<li>Hougang United FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-27/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0142">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-27/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-27 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>3-0</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-27/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0064">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-27/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-04-28 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>0-1</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-28/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0066">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-28/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-04-28 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>1-0</li>
+<li>Home United FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/April/2012-04-28/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0065">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/April/2012-04-28/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>May</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-03 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>2-1</li>
+<li>Courts Young Lions</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-03/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0018">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-03/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-03 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>0-2</li>
+<li>Harimau Muda</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-03/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0067">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-03/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-05 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>0-1</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-05/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0070">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-05/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-05 07:45:PM</li>
+<li>Home United FC</li>
+<li>3-1</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-05/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0068">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-05/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-05 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>5-1</li>
+<li>Hougang United FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-05/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0069">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-05/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-06 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>1-1</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-06/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0071">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-06/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-06 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>1-0</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-06/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0072">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-06/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-10 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>1-3</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-10/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0073">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-10/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-10 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>0-2</li>
+<li>Courts Young Lions</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-10/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0087">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-10/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-10 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>2-2</li>
+<li>Geylang United FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-10/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0074">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-10/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-11 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>0-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-11/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0076">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-11/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-11 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>1-0</li>
+<li>Gombak United FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-11/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0075">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-11/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-05-13 07:45:PM</li>
+<li>Home United FC</li>
+<li>3-1</li>
+<li>Courts Young Lions</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-13/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0078">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-13/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-05-13 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>2-3</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/May/2012-05-13/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0077">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/May/2012-05-13/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Jun</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-06-14 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>0-1</li>
+<li>Hougang United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-14/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0002">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-14/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-06-15 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>1-2</li>
+<li>Courts Young Lions</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-15/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0081">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-15/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-06-15 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>1-0</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-15/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0080">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-15/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-06-17 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>3-4</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-17/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0082">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-17/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-06-17 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>1-0</li>
+<li>Home United FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-17/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0083">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-17/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-06-21 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>1-1</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-21/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0086">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-21/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-06-21 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>0-2</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-21/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0085">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-21/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-06-22 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>1-2</li>
+<li>Home United FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-22/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0088">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-22/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-06-23 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>3-1</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-23/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0090">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-23/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-06-23 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>1-2</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/June/2012-06-23/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0089">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/June/2012-06-23/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Jul</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-11 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>1-2</li>
+<li>Hougang United FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-11/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0092">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-11/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-11 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>2-0</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-11/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0091">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-11/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-12 07:45:PM</li>
+<li>Home United FC</li>
+<li>0-3</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-12/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0093">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-12/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-12 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>1-0</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-12/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0094">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-12/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-13 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>0-2</li>
+<li>Harimau Muda</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-13/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0096">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-13/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-16 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>0-0</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-16/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0097">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-16/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-17 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>0-3</li>
+<li>Hougang United FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-17/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0099">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-17/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-17 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>0-3</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-17/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0098">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-17/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-18 07:45:PM</li>
+<li>Home United FC</li>
+<li>7-3</li>
+<li>Geylang United FC</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-18/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0101">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-18/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-18 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>2-0</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-18/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0100">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-18/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-19 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>1-0</li>
+<li>Harimau Muda</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-19/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0102">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-19/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-20 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>0-2</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-20/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0103">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-20/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-20 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>1-2</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-20/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0104">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-20/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-21 08:30:PM</li>
+<li>Home United FC</li>
+<li>1-1</li>
+<li>Hougang United FC</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-21/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0106">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-21/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-21 08:30:PM</li>
+<li>Geylang United FC</li>
+<li>1-3</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-21/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0105">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-21/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-07-22 08:30:PM</li>
+<li>Courts Young Lions</li>
+<li>2-1</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-22/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0108">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-22/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-07-22 08:30:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>1-0</li>
+<li>Harimau Muda</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/July/2012-07-22/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0107">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/July/2012-07-22/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Aug</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-08-23 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>0-0</li>
+<li>Home United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-23/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0109">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-23/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-08-23 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>0-0</li>
+<li>Geylang United FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-23/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0110">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-23/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-08-24 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>1-1</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-24/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0111">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-24/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-08-24 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>0-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-24/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0112">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-24/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-08-26 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>1-2</li>
+<li>Gombak United FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-26/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0114">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-26/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-08-26 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>1-2</li>
+<li>Harimau Muda</li>
+<li class="long">Bandar Seri Begawan</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-26/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0031">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-26/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-08-30 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>0-0</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-30/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0116">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-30/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-08-30 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>2-0</li>
+<li>Home United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-30/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0115">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-30/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-08-31 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>2-0</li>
+<li>Courts Young Lions</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-31/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0117">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-31/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-08-31 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>1-1</li>
+<li>Gombak United FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/August/2012-08-31/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0118">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/August/2012-08-31/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Sep</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-01 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>2-2</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-01/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0119">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-01/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-01 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>4-1</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-01/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0120">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-01/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-04 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>1-0</li>
+<li>Courts Young Lions</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-04/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0143">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-04/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-13 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>1-3</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-13/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0121">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-13/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-13 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>2-1</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-13/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0122">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-13/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-15 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>2-1</li>
+<li>Geylang United FC</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-15/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0123">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-15/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-15 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>0-3</li>
+<li>Home United FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-15/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0124">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-15/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-16 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>0-0</li>
+<li>Gombak United FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-16/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0125">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-16/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-16 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>1-0</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-16/balestier-khalsa-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0126">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-16/balestier-khalsa-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-19 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>0-3</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-19/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0095">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-19/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-20 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>0-0</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-20/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0127">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-20/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-20 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>2-3</li>
+<li>Hougang United FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-20/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0128">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-20/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-22 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>1-1</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-22/gombak-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0129">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-22/gombak-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-22 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>0-2</li>
+<li>Harimau Muda</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-22/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0130">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-22/woodlands-wellington-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-23 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>2-0</li>
+<li>Courts Young Lions</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-23/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0132">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-23/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-23 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>0-3</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-23/tanjong-pagar-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0131">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-23/tanjong-pagar-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-26 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>1-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-26/courts-young-lions">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0138">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-26/courts-young-lions">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-26 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>3-4</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Clementi Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-26/tampines-rovers-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0135">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-26/tampines-rovers-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-29 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>2-2</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-29/hougang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0136">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-29/hougang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-09-29 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>3-2</li>
+<li>Home United FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-29/brunei-dpmm-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0137">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-29/brunei-dpmm-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-09-30 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>1-2</li>
+<li>Gombak United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/September/2012-09-30/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0084">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/September/2012-09-30/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Oct</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-07 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>2-0</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/October/2012-10-07/harimau-muda">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0134">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/October/2012-10-07/harimau-muda">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-10-10 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>3-2</li>
+<li>Gombak United FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/October/2012-10-10/geylang-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0133">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/October/2012-10-10/geylang-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-18 07:45:PM</li>
+<li>Home United FC</li>
+<li>2-1</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Bishan Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/October/2012-10-18/home-united-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0140">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/October/2012-10-18/home-united-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-10-19 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>2-3</li>
+<li>Tampines Rovers FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/October/2012-10-19/singapore-armed-forces-fc">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0139">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/October/2012-10-19/singapore-armed-forces-fc">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-20 09:00:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>1-1</li>
+<li>Geylang United FC</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/October/2012-10-20/albirex-niigata-FC-S">PREVIEW</a>&nbsp|&nbsp<a href="/match-details/?id=SL/12-0141">DETAILS</a>&nbsp|&nbsp<a href="/match-report/s-league/2012/October/2012-10-20/albirex-niigata-FC-S">REPORT</a></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-10-21 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>---</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Woodlands Stadium</li>
+<li class="long links"><a href="/match-preview/s-league/2012/October/2012-10-21/woodlands-wellington-fc">PREVIEW</a>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-22 07:45:PM</li>
+<li>Singapore Armed Forces FC</li>
+<li>---</li>
+<li>Gombak United FC</li>
+<li class="long">Choa Chu Kang Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-10-24 07:45:PM</li>
+<li>Harimau Muda</li>
+<li>---</li>
+<li>Geylang United FC</li>
+<li class="long">Yishun Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-24 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>---</li>
+<li>Brunei DPMM FC</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-10-25 07:45:PM</li>
+<li>Woodlands Wellington FC</li>
+<li>---</li>
+<li>Home United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-27 07:45:PM</li>
+<li>Albirex Niigata FC (S)</li>
+<li>---</li>
+<li>Courts Young Lions</li>
+<li class="long">Jurong East Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-10-27 07:45:PM</li>
+<li>Balestier Khalsa FC</li>
+<li>---</li>
+<li>Tanjong Pagar United FC</li>
+<li class="long">Toa Payoh Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-10-29 07:45:PM</li>
+<li>Hougang United FC</li>
+<li>---</li>
+<li>Harimau Muda</li>
+<li class="long">Hougang Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Nov</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-11-01 07:45:PM</li>
+<li>Geylang United FC</li>
+<li>---</li>
+<li>Singapore Armed Forces FC</li>
+<li class="long">Bedok Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-11-01 07:45:PM</li>
+<li>Tampines Rovers FC</li>
+<li>---</li>
+<li>Harimau Muda</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-11-02 07:45:PM</li>
+<li>Courts Young Lions</li>
+<li>---</li>
+<li>Home United FC</li>
+<li class="long">Jalan Besar Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-11-02 08:15:PM</li>
+<li>Brunei DPMM FC</li>
+<li>---</li>
+<li>Balestier Khalsa FC</li>
+<li class="long">Hassanal Bolkiah National</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data">
+<li>2012-11-04 07:45:PM</li>
+<li>Tanjong Pagar United FC</li>
+<li>---</li>
+<li>Woodlands Wellington FC</li>
+<li class="long">Queenstown Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<ul class="data alternate">
+<li>2012-11-04 07:45:PM</li>
+<li>Gombak United FC</li>
+<li>---</li>
+<li>Albirex Niigata FC (S)</li>
+<li class="long">Jurong West Stadium</li>
+<li class="long links"><span class="disabled">PREVIEW</span>&nbsp|&nbsp<span class="disabled">DETAILS</span>&nbsp|&nbsp<span class="disabled">REPORT</span></li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+<h2>Dec</h2>
+<ul class="data_header">
+<li>DATE</li>
+<li>Home</li>
+<li>Score</li>
+<li>Away</li>
+<li>Venue</li>
+<div class="clear"></div>
+</ul>
+<div class="clear"></div>
+
+           
+			
+			
+            
+			
+			<div class="clear"></div>
+			
+                    </div>
+                    <!-- END CONTENT -->
+                </div>
+                <!-- END CONTAINER -->
+            </div>
+        </div>
+        <!-- END ROLE -->
+    </div>
+    <!-- END CONTAINER -->
+     
+<footer>
+
+	<div class="content"> 
+  <div class="col">
+<ul class=''><li><h1>NEWS & FEATURES</h1></li>
+<li class=''><a href='/news-features/news' target='' >News</a></li><li class='alternate'><a href='/news-features/win-lose-or-draw' target='' >Win Lose or Draw</a></li><li class='alternate'><a href='/news-features/press-release' target='' >Press Release</a></li></ul></div> 
+	<div class="col">
+<ul class=''><li><h1>FIXTURES/RESULTS</h1></li>
+<li class=''><a href='/tampines-rovers/fixtures-results/fixtures' target='' >Fixtures</a></li></ul></div> 
+	 <div class="col">
+<ul class=''><li><h1>COMPETITIONS</h1></li>
+<li class=''><a href='/tampines-rovers/competitions/s-league' target='' >S.League</a></li><li class='alternate'><a href='/tampines-rovers/competitions/singapore-cup' target='' >Singapore Cup</a></li><li class=''><a href='/tampines-rovers/competitions/league-cup' target='' >League Cup</a></li><li class='alternate'><a href='/tampines-rovers/competitions/afc-cup' target='' >AFC Cup</a></li><li class=''><a href='/tampines-rovers/competitions/prime-league' target='' >Prime League</a></li></ul></div> 
+	<div class="col">
+		<ul>
+			<li><h1>CLUBS PROFILE</h1></li>
+			<li><a href="/clubs-profile/albirex">ALBIREX NIIGATA FOOTBALL CLUB (S)</a></li>
+			<li class="alternate"><a href="/clubs-profile/balestier">BALESTIER KHALSA FOOTBALL CLUB</a></li>
+			<li><a href="/clubs-profile/dpmm">BRUNEI DPMM FOOTBALL CLUB</a></li>
+			<li class="alternate"><a href="/clubs-profile/courts-young-lions">COURTS YOUNG LIONS</a></li>
+			<li><a href="/clubs-profile/geylang">GEYLANG UNITED FOOTBALL CLUB</a></li>
+			<li class="alternate"><a href="/clubs-profile/gombak">GOMBAK UNITED FOOTBALL CLUB</a></li>
+			<li><a href="/clubs-profile/harimau-muda">HARIMAU MUDA</a></li>
+			<li class="alternate"><a href="/clubs-profile/home">HOME UNITED FOOTBALL CLUB</a></li>
+			<li><a href="/clubs-profile/hougang">HOUGANG UNITED FOOTBALL CLUB</a></li>
+			<li class="alternate"><a href="/clubs-profile/saffc">SINGAPORE ARMED FORCES FOOTBALL CLUB</a></li>
+			<li><a href="/clubs-profile/tampines">TAMPINES ROVERS FOOTBALL CLUB</a></li>
+			<li class="alternate"><a href="/clubs-profile/tanjong-pagar">TANJONG PAGAR UNITED FOOTBALL CLUB</a></li>
+			<li><a href="/clubs-profile/woodlands">WOODLANDS WELLINGTON FOOTBALL CLUB</a></li>
+		</ul>
+	</div>	
+    
+<div class="col">
+<ul class=''><li><h1>FAS / S.LEAGUE</h1></li>
+<li class=''><a href='/about/council-info' target='' >Council Info</a></li><li class='alternate'><a href='/about/president' target='' >President's Message</a></li><li class=''><a href='/about/financial-info' target='' >Financial Info</a></li><li class='alternate'><a href='/about/mission' target='' >Mission</a></li><li class=''><a href='/about/handbook' target='' >Handbook</a></li></ul></div> 	 
+		
+			
+	<div class="col omega">
+		<ul>
+			<li><a href="http://www.s-league.tv" target="_blank"><h1>S.LEAGUE TV</h1></a></li>
+			<li><a href="/photo-gallery"><h1>PHOTO GALLERY</h1></a></li> 
+            <li><a href="/coe-prog"><h1>COE PROG</h1></a></li> 
+			<li><a href="/ticket-info"><h1>TICKET INFO</h1></a></li>
+		</ul>
+	</div>
+	
+	
+	 
+	 
+	 
+	
+ 
+    
+	
+	  
+		 
+		
+			
+	 
+	
+	  
+
+
+       
+
+	 
+	
+	<div class="clear"></div>
+	
+	<div class="sponsors">
+	    <div class="col"><h1>Co-Title Sponsors</h1>
+		<img id="ucBodyFooter_imgCoSponsorLogo01" src="../../img/common/sponsors/logo2_01.jpg" />
+		<img id="ucBodyFooter_imgCoSponsorLogo02" src="../../img/common/sponsors/logo2_02.png" />
+		</div>
+		<div class="col omega"><h1>Partners in Sports</h1>
+		<img id="ucBodyFooter_imgPartnerLogo01" src="../../img/common/sponsors/logo2_08.jpg" />
+		<img id="ucBodyFooter_imgPartnerLogo02" src="../../img/common/sponsors/logo2_09.png" />
+		</div>
+		
+	</div>
+
+	<div class="sponsors">
+		<div class="col"><h1>Sponsors</h1>
+		<img id="ucBodyFooter_imgSponsorLogo01" src="../../img/common/sponsors/logo_01.jpg" />
+		<img id="ucBodyFooter_imgSponsorLogo02" src="../../img/common/sponsors/logo_02.jpg" />
+		<img id="ucBodyFooter_imgSponsorLogo03" src="../../img/common/sponsors/logo_03.png" />
+		<img id="ucBodyFooter_imgSponsorLogo05" src="../../img/common/sponsors/logo_05.png" />
+		</div>
+		<div class="col omega"><h1>Affiliates</h1>
+		<img id="ucBodyFooter_imgAffiliateLogo01" src="../../img/common/sponsors/logo2_04.jpg" />
+		<img id="ucBodyFooter_imgAffiliateLogo02" src="../../img/common/sponsors/logo2_05.jpg" />
+		<img id="ucBodyFooter_imgAffiliateLogo03" src="../../img/common/sponsors/logo2_06.png" />
+		</div>
+		
+		<div class="clear"></div>
+      
+	</div>
+	
+	<div class="clear"></div>
+	
+	</div>
+	
+</footer> 
+    </form>
+</body>
+</html>

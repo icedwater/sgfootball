@@ -1,4 +1,5 @@
 /home/iced/experiment/SLeague/bin/classes.dex : \
+/home/iced/experiment/SLeague/bin/classes/com/icedwater/sleague/MainActivity$2.class \
 /home/iced/experiment/SLeague/bin/classes/com/icedwater/sleague/R$layout.class \
 /home/iced/experiment/SLeague/bin/classes/com/icedwater/sleague/R$string.class \
 /home/iced/experiment/SLeague/bin/classes/com/icedwater/sleague/ClubsActivity.class \

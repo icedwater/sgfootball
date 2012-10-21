@@ -3,8 +3,9 @@ package com.icedwater.sleague;
 import android.app.Activity;
 import android.os.Bundle;
 
-// import android.app.ActionBar;
-// import android.app.FragmentTransaction;
+import android.app.ActionBar;
+import android.app.Fragment;
+import android.app.FragmentTransaction;
 
 import android.view.View;
 import android.widget.Button;
@@ -27,7 +28,7 @@ public class MainActivity extends Activity
             }
         });
 
-/*        final ActionBar actionBar = getActionBar();
+        final ActionBar actionBar = getActionBar();
 
         // display tabs in the action bar
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
@@ -56,7 +57,7 @@ public class MainActivity extends Activity
                     .setText("Tab " + (i + 1))
                     .setTabListener(tabListener));
         }
-*/
+
 
     }
 

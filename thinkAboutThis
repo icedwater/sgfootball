@@ -1,2 +1,11 @@
 #! /usr/bin/env bash
-grep -E -A7 'data[ alternate]?' s-league | sed '/links/d;/div/d;/ul/d;s/<div>//;s/[ ]class=long//;s/<[\/]*li>//g' | tr '\r\n' ' ' | sed 's/ -- /\n/g' | sed 's/Venue  /\n/;/DATE/d'
+
+if [[ ! -r s-league ]]
+  then wget http://www.sleague.com/fixtures-results/fixtures/s-league
+fi
+
+grep -E -A7 'data[ alternate]?' s-league | 
+  sed '/links/d;/div/d;/ul/d;s/<div>//;s/[ ]class="long"//g;s/<[\/]*li>//g' |
+    tr '\r\n' ' ' | 
+      sed 's/ -- /\n/g;' |
+        sed 's/Venue  /\n/;/DATE/d'
