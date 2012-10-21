@@ -1,12 +1,17 @@
 #! /usr/bin/env bash
 
+# get file again if it does not exist.
 if [ ! -r s-league ]
   then wget http://www.sleague.com/fixtures-results/fixtures/s-league
 fi
 
+# forcibly remove data_header
 sed "s/data_header/mata_header/" s-league | 
+# then transform get the lines for each match
   grep -E -A7 "data[ alternate]?" |
+# remove the unnecessary decoration
     sed '/links/d;/div/d;/ul/d;s/<div>//;s/[ ]class="long"//g;s/<[\/]*li>//g' |
+# make each line a part of the record
       tr '\r\n' ' ' | 
-        sed 's/ -- /\n/g;' |
-          sed 's/Venue  /\n/;/DATE/d'
+# and remove the clunky DATE/Venue bits.
+        sed 's/ -- /\n/g;s/Venue  /\n/;/DATE/d' 
