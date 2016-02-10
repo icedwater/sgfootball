@@ -1,0 +1,6 @@
+# Ignore Jekyll stuff
+_site/
+
+# Anything that ends in ~ or .swp
+*~
+*.swp
